@@ -1,5 +1,5 @@
 # AI Skills for Reservoir Engineering
-This project develops AI [skill](https://agentskills.io/home)s (for tools like Claude Code, Google Antigravity, etc) 
+This project presents AI [skill](https://agentskills.io/home)s (for tools like Claude Code, Google Antigravity, etc) 
 for (petroleum) reservoir engineering. It provides skills for the algorithms defined in the 
 [pyrestoolbox](https://github.com/mwburgoyne/pyResToolbox) project.
 
